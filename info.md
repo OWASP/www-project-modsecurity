@@ -1,7 +1,7 @@
 ### ModSecurity Information
 * [Incubator Project](#)
 * [Type of Project](#)
-* [Version 0.0.0](#)
+* Versions 2.9.7 / 3.0.11
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 * <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
