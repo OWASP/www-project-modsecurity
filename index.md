@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP ModSecurity
 tags: example-tag
-level: 2
+level: 3.5
 type: code
 pitch: ModSecurity is the standard open-source web application firewall (WAF) engine.
 
