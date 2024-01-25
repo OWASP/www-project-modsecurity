@@ -19,7 +19,7 @@ The project, started in 2002, is being [transferred from Trustwave](https://www.
 
 This will bring new life to ModSecurity and foster the creation of a development community around it.
 
-It is one of the tasks of the new OWASP ModSecurity project to define a new roadmap.
+It is one of the tasks of the new OWASP ModSecurity project to define a new road map.
 
 ### Communication
 
