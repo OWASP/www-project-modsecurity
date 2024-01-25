@@ -1,9 +1,9 @@
 ### ModSecurity Information
-* Production Level
-* Defender
-* Versions 2.9.7 / 3.0.11
+* <i class="fas fa-flask" style="color:rgb(90,129,175);"></i> Production Project
+* <i class="fas fa-shield-alt" style="color:rgb(90,129,175);"></i> Defender
+* <i class="fas fa-code" style="color:rgb(90,129,175);"></i> Code
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
-* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
+* Versions 2.9.7 / 3.0.11
 
 ### Downloads or Social Links
 * [Version 2.9.7](https://github.com/spiderlabs/modsecurity/releases/tag/v2.9.7)
