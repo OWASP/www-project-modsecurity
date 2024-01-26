@@ -13,8 +13,8 @@ over the project in Jan 2024.
 
 ### Status 2024-01-26
 
-* Trustwave has transferred the ModSecurity repo to [https://github.com/owasp-modsecurity/ModSecurity].
-* The OWASP.org page at [https://owasp.org/www-project-modsecurity/] has been launched.
+* Trustwave has transferred the ModSecurity repo to https://github.com/owasp-modsecurity/ModSecurity.
+* The OWASP.org page at https://owasp.org/www-project-modsecurity/ has been launched.
 * OWASP has confirmed the new intermediary leadership team: Ervin Hegedüs, Marc Stern and Christian Folini. A portrait of them is on the owasp.org page of the project.
 * The OWASP project committee has promoted OWASP ModSecurity to production level. While this is only an administrative status, there is symbolic value in the promotion.
 * Trustwave has handed over the Twitter (X) account to OWASP. Ervin and Christian are delegates on the account.
@@ -51,6 +51,9 @@ over the project in Jan 2024.
 * Got in touch with a commercial integrator who runs their own libModSecurity3-Apache connector. The question will be if they would be interested to donate the code. Potentially a short cut to get a production hardened Apache connector.
 
 
+### Trustwave will transfer ModSecurity to OWASP (2024-01-09)
 
-### Trustwave will transfer ModSecurity to OWASP
+* [Trustwave Transfers ModSecurity Custodianship to the Open Worldwide Application Security Project (OWASP)](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-transfers-modsecurity-custodianship-to-the-open-worldwide-application-security-project/)
+* [Trustwave Transfers ModSecurity Custodianship to OWASP](https://owasp.org/blog/2024/01/09/ModSecurity)
+
 
