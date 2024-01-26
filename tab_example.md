@@ -1,5 +1,5 @@
 ---
-title: Example
+title: ExampleX
 layout:  null
 tab: true
 order: 1
@@ -8,7 +8,7 @@ tags: example-tag
 
 ## A Message From the New OWASP ModSecurity Leader Team
 
-_2024-01-26_ 002
+_2024-01-26_ 003
 
 
 OWASP HQ has approved the intermediate leadership team for OWASP ModSecurity.
