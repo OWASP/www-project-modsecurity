@@ -3,7 +3,7 @@ title: Leaders
 layout:  null
 tab: true
 order: 1
-tags: modsecurity, leaders
+tags: modsecurity
 ---
 
 ## A Message From the New OWASP ModSecurity Leader Team
