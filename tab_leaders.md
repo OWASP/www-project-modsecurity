@@ -6,10 +6,9 @@ order: 1
 tags: example-tag
 ---
 
-## A Message From the New OWASP ModSecurity Leader Team
+## A Message From the New OWASP ModSecurity Leadership Team
 
-_2024-01-26_ 005
-
+_2024-01-26_
 
 OWASP HQ has approved the intermediate leadership team for OWASP ModSecurity.
 We say intermediate, because the plan is to bring the community together in
