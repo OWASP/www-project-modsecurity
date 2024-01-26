@@ -6,15 +6,15 @@
 * Versions 2.9.7 / 3.0.11
 
 ### Downloads or Social Links
-* [Version 2.9.7](https://github.com/spiderlabs/modsecurity/releases/tag/v2.9.7)
-* [Version 3.0.11](https://github.com/spiderlabs/modsecurity/releases/tag/v3.0.11)
+* [Version 2.9.7](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v2.9.7)
+* [Version 3.0.11](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v3.0.11)
 * [Twitter](https://twitter.com/modsecurity)
 
 ### Code Repository
-* [v2 Code repository](https://github.com/SpiderLabs/ModSecurity/tree/v2/master)
-* [v3 Code repository](https://github.com/SpiderLabs/ModSecurity)
+* [v2 Code repository](https://github.com/owasp-modsecurity/ModSecurity/tree/v2/master)
+* [v3 Code repository](https://github.com/owasp-modsecurity/ModSecurity)
 
 ### Change Log
-* [v2 Changes](https://github.com/SpiderLabs/ModSecurity/blob/v2/master/CHANGES)
-* [v3 Changes](https://github.com/SpiderLabs/ModSecurity/blob/v3/master/CHANGES)
+* [v2 Changes](https://github.com/owasp-modsecurity/ModSecurity/blob/v2/master/CHANGES)
+* [v3 Changes](https://github.com/owasp-modsecurity/ModSecurity/blob/v3/master/CHANGES)
 
