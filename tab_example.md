@@ -1,9 +1,9 @@
 ---
-title: Leaders
+title: Example
 layout:  null
 tab: true
 order: 1
-tags: modsecurity
+tags: example-tag
 ---
 
 ## A Message From the New OWASP ModSecurity Leader Team
