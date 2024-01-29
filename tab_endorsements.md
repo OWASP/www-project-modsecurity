@@ -8,6 +8,12 @@ tags: example-tag
 
 ## Endorsements of the New OWASP ModSecurity Project
 
+
+The fresh start for ModSecurity with a new team and under the roof of the OWASP foundation was welcomed by many, many important people in the security community.
+
+Here are a few statements that endorse the new project and the plans.
+
+
 ### Jim Manico, Author, Speaker, Advocate
 
 <a href="https://twitter.com/manicode/status/1747342981160460398"><img src="assets/images/endorsement_jim_manico.png"></a>
