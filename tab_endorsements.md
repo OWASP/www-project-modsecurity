@@ -10,19 +10,16 @@ tags: example-tag
 
 ### Jim Manico, Author, Speaker, Advocate
 
-_I am not a fan of WAFs, but if there is one team that I think will be able to bring something useful to the table it's the people in the new OWASP ModSecurity project._
-
-	-- Jim Manico
-
 <a href="https://twitter.com/manicode/status/1747342981160460398"><img src="assets/images/endorsement_jim_manico.png"></a>
 
 
 ### Ryan Barnett, Former ModSecurity Leader
 
-_This is exciting news! I worked on the @ModSecurity and @CoreRuleSet for over a decade at Breach Security and then @SpiderLabs and lead the effort to move the CRS to @owasp.  By moving the ModSecurity engine to OWASP it will truly unlock its development. Outstanding 👍_
+<a href="https://twitter.com/ryancbarnett/status/1745810716316111183"><img src="assets/images/endorsement_ryan_barnett.png"></a>
 
-	-- Ryan Barnett
 
-<a href="https://twitter.com/ryancbarnett/status/1745810716316111183">Link to the statement</a>
+### Felipe 'Zimmerle' Costa, Former ModSecurity Head Developer
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7151335126017183744?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7151335126017183744%2C7152009190075416576%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287152009190075416576%2Curn%3Ali%3Aactivity%3A7151335126017183744%29"><img src="assets/images/endorsement_felipe_zimmerle_costa.png"></a>
 
 
