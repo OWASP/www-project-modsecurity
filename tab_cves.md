@@ -56,6 +56,10 @@ It can be argued wether the Integrity Impact should be lowered to "medium" inste
 
 In both taxonomies, CWE and CAPEC, we assigned very broad categories. None of the more detailed categories were really spot on.
 
+### Official CVE listing
+
+[https://nvd.nist.gov/vuln/detail/CVE-2024-1019](https://nvd.nist.gov/vuln/detail/CVE-2024-1019)
+
 ### Longer description
 
 The [OWASP CRS](https://coreruleset.org) team has discovered an unexpected behavior that can lead to a bypass in the [ModSecurity](https://owasp.org/www-project-modsecurity/) v3 release line (also known as libModSecurity).
@@ -145,10 +149,10 @@ _The timeline comes with a twist. Trustwave transferred the ModSecurity project 
 
 ### Reporters
 
-* Andrea Menin [@AndreaTheMiddle](https//twitter/AndreaTheMiddle) https://github.com/theMiddleBlue
-* Matteo Pace [@M4tteoP](https//twitter/M4tteoP) https://github.com/M4tteoP
-* Max Leske https://github.com/theseion
-* Ervin Hegedüs [@Airween](https//twitter/airween) https://github.com/airween (primary contact)
+* Andrea Menin [@AndreaTheMiddle](https://twitter/AndreaTheMiddle) [https://github.com/theMiddleBlue]
+* Matteo Pace [@M4tteoP](https://twitter/M4tteoP) [https://github.com/M4tteoP]
+* Max Leske [https://github.com/theseion]
+* Ervin Hegedüs [@Airween](https://twitter/airween) [https://github.com/airween] (primary contact)
 
 ### Acknowledgements
 
