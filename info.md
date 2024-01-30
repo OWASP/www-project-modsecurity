@@ -7,7 +7,7 @@
 
 ### Downloads or Social Links
 * [Version 2.9.7](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v2.9.7)
-* [Version 3.0.11](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v3.0.11)
+* [Version 3.0.12](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v3.0.12)
 * [Twitter](https://twitter.com/modsecurity)
 
 ### Code Repository
