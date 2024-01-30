@@ -12,7 +12,7 @@ This page lists the official CVEs published since OWASP took over ModSecurity fr
 
 ## CVE 2024-1019, 2024-01-30
 
-### ModSecurity v3 WAF bypass (severity HIGH, 2024-01-30) 
+### ModSecurity v3 WAF bypass (severity HIGH)
 
 ### Advisory
 
@@ -36,7 +36,7 @@ ModSecurity v2.9.x is not affected by this vulnerability.
 
 ### CVSS 3.1
 
-* Score : 8.6 HIGH
+* **Score** : 8.6 HIGH
 * Attack Complexity: low,
 * Attack Vector: network,
 * Availability Impact: none,
