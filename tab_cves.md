@@ -30,9 +30,20 @@ ModSecurity v2.9.x is not affected by this vulnerability.
 
 ### Download
 
-* Source code (tagged release): FIXME
-* Source code repository: pending
-* Pre-Compiled Packages: https://github.com/owasp-modsecurity/ModSecurity
+* Source code (tagged release): [https://github.com/owasp-modsecurity/modsecurity/releases/tag/v3.0.12](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v3.0.12)
+* Source code repository: [https://github.com/owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
+* Pre-Compiled Packages: [https://modsecurity.digitalwave.hu/](https://modsecurity.digitalwave.hu/)
+
+Please notice that Trustwave Spiderlabs used to sign releases with the personal key of Martin Vierula (`F126692E9BA86B3958E73ED2F2FC4E45883BCBA4`).
+
+The new OWASP ModSecurity project has created a new key and is now signing releases starting 3.0.12 with the key `0B2BA1924065B44691202A2AD286E022149F0F6E` issued to modsecurity@owasp.org.
+
+The key is present on most key servers. Here is how you can retrieve it:
+
+```
+$ gpg --keyserver keyserver.ubuntu.com --recv-key 0B2BA1924065B44691202A2AD286E022149F0F6E
+```
+
 
 ### CVSS 3.1
 
