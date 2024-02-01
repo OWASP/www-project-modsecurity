@@ -47,7 +47,7 @@ $ gpg --keyserver keyserver.ubuntu.com --recv-key 0B2BA1924065B44691202A2AD286E0
 
 ### CVSS 3.1
 
-* **Score** : 8.6 HIGH
+* **Score : 8.6 HIGH**
 * Attack Complexity: low,
 * Attack Vector: network,
 * Availability Impact: none,
@@ -85,7 +85,7 @@ The ModSecurity variables `REQUEST_FILENAME` and `REQUEST_BASENAME` are affected
 
 Referring to the relevant RFC governing the use of URIs ([RFC 3986](https://datatracker.ietf.org/doc/html/rfc3986)) reveals that this is a known hazard. The RFC [explicitly states](https://datatracker.ietf.org/doc/html/rfc3986#section-2.4) that a URI must be separated into its component parts before performing URL decoding in order to avoid mistaking an encoded character for a component delimiter.
 
-The fix was to modify the ModSecurity3 function that processes a request URI. The URL is not separated into its components before URL decoding is performed, removing the possibility of ModSecurity3 mistakenly using an incorrect delimiter character.
+The fix was to modify the ModSecurity3 function that processes a request URI. The URL is now separated into its components before URL decoding is performed, removing the possibility of ModSecurity3 mistakenly using an incorrect delimiter character.
 
 ### Example bypass
 
