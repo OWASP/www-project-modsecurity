@@ -150,7 +150,7 @@ _The timeline comes with a twist. Trustwave transferred the ModSecurity project 
 * 2024-01-03 : Trustwave Spiderlabs announces preview patch by Jan 12, release in the week of Jan 22
 * 2024-01-12 : Trustwave Spiderlabs shares preview patch with primary contact from OWASP CRS
 * 2024-01-22 : OWASP CRS confirms preview patch fixes vulnerability
-* 2024-01-24 : Trustwave Spiderlabs announces transfer of ModSecurity project to OWASP for 2023-01-25
+* 2024-01-24 : Trustwave Spiderlabs announces transfer of ModSecurity project to OWASP for 2024-01-25
 * 2024-01-25 : Trustwave Spiderlabs transfers ModSecurity repository to OWASP
 * 2024-01-25 : OWASP creates OWASP ModSecurity, assigns OWASP ModSecurity production level, primary contact from OWASP CRS becomes OWASP ModSecurity co-lead
 * 2024-01-26 : OWASP ModSecurity leaders decide to release on 2023-01-30
