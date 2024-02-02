@@ -141,7 +141,7 @@ _The timeline comes with a twist. Trustwave transferred the ModSecurity project 
 * 2023-11-13 : OWASP CRS submits report to Trustwave Spiderlabs, includes SQLi proof of concept
 * 2023-11-14 : Trustwave Spiderlabs acknowledges report, promises investigation
 * 2023-11-28 : OWASP CRS asks for update
-* 2023-11-29 : Trustwave Spiderlabs rejects report, describes it as anomaly without security impact
+* 2023-11-29 : Trustwave Spiderlabs rejects report, describes it as anomaly without security impact and links to [previous report](https://github.com/owasp-modsecurity/ModSecurity/issues/2705)
 * 2023-12-01 : OWASP CRS reiterates previously shared SQLi proof of concept
 * 2023-12-01 : Trustwave Spiderlabs acknowledges security impact
 * 2023-12-04 : OWASP CRS shares XSS proof of concept
@@ -168,3 +168,7 @@ _The timeline comes with a twist. Trustwave transferred the ModSecurity project 
 ### Acknowledgements
 
 The OWASP ModSecurity team thanks the wider OWASP CRS team for their patience. Unfortunately, this fix took far longer than it should. We also thank Trustwave Spiderlabs, namely Martin Vierula, for the patch for this issue and the support with the release process. Harold Blankenship from OWASP Headquarters overlooked the transfer of ModSecurity and helped with the timely setup of a new OWASP project and GitHub organization. The OWASP project committee around Björn Kimminich fast tracked OWASP ModSecurity to production level. And finally NCSC-CH that supported us with the CVE process substantially. More than anything, Open Source Software is a team effort. Thank you all.
+
+### Links
+
+* [Blog Post](https://blog.sicuranext.com/modsecurity-path-confusion-bugs-bypass/) explaining the situation where ModSecurity v2 installations may be affected by a similar problem. 
