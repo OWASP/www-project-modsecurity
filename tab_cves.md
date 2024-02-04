@@ -160,10 +160,10 @@ _The timeline comes with a twist. Trustwave transferred the ModSecurity project 
 
 ### Reporters
 
-* Andrea Menin [@AndreaTheMiddle](https://twitter/AndreaTheMiddle) [https://github.com/theMiddleBlue](https://github.com/theMiddleBlue)
-* Matteo Pace [@M4tteoP](https://twitter/M4tteoP) [https://github.com/M4tteoP](https://github.com/M4tteoP)
+* Andrea Menin [@AndreaTheMiddle](https://twitter.com/AndreaTheMiddle) [https://github.com/theMiddleBlue](https://github.com/theMiddleBlue)
+* Matteo Pace [@M4tteoP](https://twitter.com/M4tteoP) [https://github.com/M4tteoP](https://github.com/M4tteoP)
 * Max Leske [https://github.com/theseion](https://github.com/theseion)
-* Ervin Hegedüs [@Airween](https://twitter/airween) [https://github.com/airween](https://github.com/airween) (primary contact)
+* Ervin Hegedüs [@Airween](https://twitter.com/airween) [https://github.com/airween](https://github.com/airween) (primary contact)
 
 ### Acknowledgements
 

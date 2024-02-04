@@ -11,6 +11,13 @@ tags: example-tag
 The following is a lose collection of news and status reports since OWASP took
 over the project in Jan 2024.
 
+### Status 2024-02-04
+
+* The first release under new management: 3.0.12. Given Trustwave handed over the repo with the fix for CVE-2024-1019 scheduled but not released, we had to get going very fast.
+* The day after the release, a blog post went up that explains a different behavior in v2 and v3. It is in an area close to the CVE we fixed. We'll have to sort this out.
+* ModSecurity development has started again and Marc has merged a few PRs that have been open for quite some time. One of them addressed longstanding problem with t:cmdLine (PR 3051). 
+* More talks with commercial integrators.
+
 ### Status 2024-01-26
 
 * Trustwave has transferred the ModSecurity repo to https://github.com/owasp-modsecurity/ModSecurity.
