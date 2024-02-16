@@ -11,6 +11,16 @@ tags: example-tag
 The following is a lose collection of news and status reports since OWASP took
 over the project in Jan 2024.
 
+### Status 2024-02-16
+
+* We had to roll back several commits on v2. This brought us to the conclusion we need CI/CD in place before we merge anything.
+* So Ervin has set up a minimal CI/CD environment and development picked up again.
+* We have established minimal review process that involves either Marc or Ervin signing off any pull request before merging for the time being.
+* Technical discussions with more participants have started on Slack and on Github. Apparently a good sign.
+* Christian did a presentation around OWASP ModSecurity, history, status, plans and an OWASP perspective for OWASP Netherlands. Recording will be published soon.
+* OWASP CRS has released CRS 4. This includes a plugin functionality but more importantly for ModSecurity, it no longer depends on PCRE.
+
+
 ### Status 2024-02-04
 
 * The first release under new management: 3.0.12. Given Trustwave handed over the repo with the fix for CVE-2024-1019 scheduled but not released, we had to get going very fast.
