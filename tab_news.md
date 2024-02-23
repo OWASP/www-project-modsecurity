@@ -11,6 +11,12 @@ tags: example-tag
 The following is a lose collection of news and status reports since OWASP took
 over the project in Jan 2024.
 
+### Status 2024-02-23
+
+* We had more discussions about code, bug reports and improvements. Given we are seeking to build a new development company, this is a very good sign and deserves the top priority.
+* With 3 open source SecLang implementations (ModSec v2, ModSec v3, Coraza), there is a growing need to coordinate the behavior, namely with implementation differences and new features. OWASP ModSecurity has proposed a SecLang round table and invited several stakeholders (Coraza and several rules projects) to discuss a pending problem. This meeting will happen in the coming weeks.
+* Original author of ModSecurity, Ivan Ristić, presented at the OWASP London 20 years anniversary event about 22 years of ModSecurity. [Link to video](https://www.youtube.com/watch?v=SbAVBQODDR0&t=3592s)
+
 ### Status 2024-02-16
 
 * We had to roll back several commits on v2. This brought us to the conclusion we need CI/CD in place before we merge anything.
