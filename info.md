@@ -5,7 +5,7 @@
 * <i class="fas fa-tools" style="color:#233e81;"></i> Tool
 
 ### Downloads or Social Links
-* [Version 2.9.8](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v2.9.8)
+* [Version 2.9.11](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v2.9.11)
 * [Version 3.0.14](https://github.com/owasp-modsecurity/modsecurity/releases/tag/v3.0.14)
 * [Twitter](https://twitter.com/modsecurity)
 
