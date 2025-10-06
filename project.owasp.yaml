@@ -1,0 +1,59 @@
+audience:
+  - defender
+community:
+  - name: project-modsecurity
+    platform: slack
+    url: https://owasp.slack.com/archives/C069PCXSW12
+    description: "Slack channel for the new OWASP ModSecurity project.\n\nSee <https://owasp.org/blog/2024/01/09/ModSecurity.html>"
+leaders:
+  - name: Ervin Hegedus
+    email: ervin.hegedus@owasp.org
+    github: airween
+  - name: Christian Folini
+    email: christian.folini@owasp.org
+    github: dune73
+  - name: Marc Stern
+    email: marc.stern@owasp.org
+    github: marcstern
+level: 3.5
+license:
+  - Apache-2.0
+name: OWASP ModSecurity
+pitch: ModSecurity is the standard open-source web application firewall (WAF) engine.
+repositories:
+  - name: www-project-modsecurity
+    url: https://github.com/OWASP/www-project-modsecurity
+    description: OWASP Foundation Web Repository
+  - name: modsec-sdbm-util
+    url: https://github.com/owasp-modsecurity/modsec-sdbm-util
+    description: 'Utility to manipulate SDBM files used by ModSecurity. With that utility it is possible to _shrink_ SDBM databases. It is also possible
+      to list the SDBM contents with filters such as: expired or invalid items only. '
+  - name: ModSecurity
+    url: https://github.com/owasp-modsecurity/ModSecurity
+    description: ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based
+      programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and
+      real-time analysis.
+  - name: ModSecurity-apache
+    url: https://github.com/owasp-modsecurity/ModSecurity-apache
+    description: ModSecurity v3 Apache Connector
+  - name: ModSecurity-nginx
+    url: https://github.com/owasp-modsecurity/ModSecurity-nginx
+    description: ModSecurity v3 Nginx Connector
+  - name: ModSecurity-Python-bindings
+    url: https://github.com/owasp-modsecurity/ModSecurity-Python-bindings
+    description: Python bindings for libModSecurity (aka ModSecurity v3)
+  - name: MRTS
+    url: https://github.com/owasp-modsecurity/MRTS
+    description: ModSecurity Regression Test set
+  - name: secrules-language-tests
+    url: https://github.com/owasp-modsecurity/secrules-language-tests
+    description: Set of test cases that can be used to test custom implementations of the SecRules language (ModSecurity rules format).
+  - name: website
+    url: https://github.com/owasp-modsecurity/website
+    description: www.modsecurity.org website
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-modsecurity
